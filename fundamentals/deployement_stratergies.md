@@ -6,7 +6,7 @@
 
 ## Most popular deployment patterns:
 
-![Image](https://media.licdn.com/dms/image/v2/D5622AQGd3jQWNP3_XQ/feedshare-shrink_2048_1536/B56ZyeC7ERKAAk-/0/1772178096007?e=1773878400&v=beta&t=I4KincOize8ZDtmMYq7JQHrT-0Nc1EIebIDcRJCoqxg)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1772446683/69d2e3c9-80eb-49c2-9cd6-5f7238fc37e4.png)
 
 - Blue/Green for safety and zero downtime
 - Canary for controlled, low-risk rollouts
